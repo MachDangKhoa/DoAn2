@@ -1,4 +1,5 @@
 ĐỀ TÀI ĐỒ ÁN CƠ SỞ 2: CÔNG CỤ ĐIỂM DANH LỚP HỌC TRÊN ẢNH TOÀN LỚP BẰNG CÁCH NHẬN DIỆN KHUÔN MẶT.
+
 Thực hiện chạy code:
 Bước 1: Bật terminal.
 Bước 2: gõ dòng python -m venv dlib_venv
