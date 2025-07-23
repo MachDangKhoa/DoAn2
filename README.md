@@ -1,4 +1,4 @@
-ĐỀ TÀI ĐỒ ÁN CƠ SỞ 2: CÔNG CỤ ĐIỂM DANH LỚP HỌC TRÊN ẢNH TOÀN LỚP BẰNG CÁCH NHẬN DIỆN KHUÔN MẶT.
+ĐỀ TÀI ĐỒ ÁN 2: ỨNG DỤNG ĐIỂM DANH LỚP HỌC TRÊN ẢNH TOÀN LỚP BẰNG CÁCH NHẬN DIỆN KHUÔN MẶT.
 
 Thực hiện chạy code:
 
